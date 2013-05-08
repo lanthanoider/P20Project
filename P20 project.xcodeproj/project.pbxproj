@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		5E023DD0173983990072E300 /* p20Embedded.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = p20Embedded.c; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		5E023DC9173983680072E300 = {
 			isa = PBXGroup;
 			children = (
+				5E023DD0173983990072E300 /* p20Embedded.c */,
 			);
 			sourceTree = "<group>";
 		};
