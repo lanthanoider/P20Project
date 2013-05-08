@@ -48,6 +48,7 @@ int main() {
             // encrypt the number
             data = encrypt_number((int)data);
             uart_transmit(data);
+            uart_transmit('\n');
             new_char = 0;
         }
     }
